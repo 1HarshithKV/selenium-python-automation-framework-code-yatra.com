@@ -1,0 +1,16 @@
+{
+"test1":
+{
+   "goingfrom" : "Bangalore",
+   "goingto" : "New Delhi",
+   "date" : "Choose Thursday, July 17th, 2025",
+   "stops" : "1"
+},
+"test2":
+{
+   "goingfrom" : "Mumbai",
+   "goingto" : "New York",
+   "date" : "Choose Wednesday, July 30th, 2025",
+   "stops" : "1"
+}
+}
