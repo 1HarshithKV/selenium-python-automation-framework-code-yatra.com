@@ -33,10 +33,13 @@ pytest-xdist(for parallel execution)
 #-------------------
 #git status --> to check the status
 #git init --> for initialize the repo
-#git add <file name> --> to add file into the repo
+#git add <file name> --> to add file into the repo (staging area)
 #git config --global user.name "Harshith" --> to set global username
-#git config --global user.email "ust.kvh@gmail.com" --> to set global user id
+#git config --global user.email "ust#@kvh@gmail.com" --> to set global user id
 #git config --global --list --> to check the user list
 #git commit -m "first-commit(any indication u can give)" --> this is to commit the changes
+#git push -u origin main --> to push the code
+#git clone <id/path> --> to clone the entire code from git repo into local repo
+#git pull --> to pull the changes from the git repo
 
 
