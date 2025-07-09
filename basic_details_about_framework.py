@@ -41,5 +41,7 @@ pytest-xdist(for parallel execution)
 #git push -u origin main --> to push the code
 #git clone <id/path> --> to clone the entire code from git repo into local repo
 #git pull --> to pull the changes from the git repo
+#git checkout -b <name of the branch> --> this will create another branch
+
 
 
